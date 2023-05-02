@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="python" alt="CSS" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/Pstgres/postgres-plain-wordmark.svg"  title="Postgres" alt="CSS" width="40" height="40"/>&nbsp;
 
 
