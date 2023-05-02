@@ -32,3 +32,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+### :man_technologist: About Me :
+I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos,Nigeria.
+I’m currently learning more on dbt and building scalable  infrastructure.
+I’m looking to collaborate on data engineering tasks
+
