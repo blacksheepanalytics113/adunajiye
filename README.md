@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ### :man_technologist: About Me :
+
+
 - :telescope: I’m working as a Data Engineer and contributing to building scalable pipelines and cloud infrastruture.
 - :zap: In my free time, I read tech articles,watch movies and look to collaborate on data engineering tasks
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adunoluwa-ajiye-107745179/)
