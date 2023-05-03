@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/80220180/235811693-82d11c76-0bad-4512-944c-59384a905341.mp4" width="100"/>
 </div>
+
+
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/adunoluwa-ajiye-107745179/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
