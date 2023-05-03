@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 - Bi Tools: Power Bi, Apache Superset 📊
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adunajiye&layout=compact&theme=vision-friendly-dark)](https://github.com/adunajiye/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adunajiye&layout=compact&theme=vision-friendly-white)](https://github.com/adunajiye/github-readme-stats)
 
