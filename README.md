@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Adun
+
 <!--
 **adunajiye/adunajiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 
 - :telescope: I’m working as a Data Engineer and contributing to building scalable pipelines and cloud infrastruture.
@@ -42,10 +44,10 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 - Programming Lanaguages: Python,SQL 💻 
-- ☑ Data Tool: Pandas, Kafka, dbt, Airflow,Airbyte,matplotlib ⚒ 
-- ☑ Cloud Services: AWS ☁ 
-- ☑ DevOps: Docker,Git 🛠 
-- ☑ Bi Tools: Power Bi, Apache Superset 📊
+- Data Tool: Pandas, Kafka, dbt, Airflow,Airbyte,matplotlib ⚒ 
+- Cloud Services: AWS ☁ 
+- DevOps: Docker,Git 🛠 
+- Bi Tools: Power Bi, Apache Superset 📊
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adunajiye&layout=compact&theme=vision-friendly-dark)](https://github.com/adunajiye/github-readme-stats)
