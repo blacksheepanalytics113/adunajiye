@@ -41,13 +41,11 @@ Here are some ideas to get you started:
 
 
 ### :hammer_and_wrench: Languages and Tools :
-
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="python" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache airflow/apache airflow-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+- Programming Lanaguages: Python,SQL 💻 
+- ☑ Data Tool: Pandas, Kafka, dbt, Airflow,Airbyte,matplotlib ⚒ 
+- ☑ Cloud Services: AWS ☁ 
+- ☑ DevOps: Docker,Git 🛠 
+- ☑ Bi Tools: Power Bi, Apache Superset 📊
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adunajiye&layout=compact&theme=vision-friendly-dark)](https://github.com/adunajiye/github-readme-stats)
