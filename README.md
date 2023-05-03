@@ -45,9 +45,8 @@ Here are some ideas to get you started:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="python" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/airbyte/airbyte-original-wordmark.svg" title="airbyte" **alt="Git" width="40" height="40"/>
-</div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache airflow/apache airflow-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
