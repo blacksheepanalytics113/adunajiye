@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### :man_technologist: About Me:
+### :man_technologist: About Adun:
 
 
 - :telescope: I’m working as a Data Engineer and contributing to building scalable pipelines and cloud infrastruture.
