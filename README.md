@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 
 ### :hammer_and_wrench: Languages and Tools :
-- Programming Lanaguages: Python,SQL 💻 
-- Data Tool: Pandas, Kafka, dbt, Airflow,Airbyte,matplotlib ⚒ 
-- Cloud Services: AWS ☁ 
-- DevOps: Docker,Git 🛠 
-- Bi Tools: Power Bi, Apache Superset 📊
+- Programming Lanaguages: Python,SQL,Spark 💻 
+- Data Tool: Pandas, Kafka, dbt, Airflow,Airbyte,matplotlib,MongoDB,PostgreSQL ⚒ 
+- Cloud Services: AWS ☁ ,DigitalOcean
+- DevOps: Docker,Git,Terraform 🛠
+- Bi Tools: Power Bi, Apache Superset,Metabase 📊
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adunajiye&layout=compact&theme=vision-friendly-white)](https://github.com/adunajiye/github-readme-stats)
