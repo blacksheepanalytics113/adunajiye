@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 - Programming Lanaguages: Python,SQL,Spark 💻 
 - Data Tool: Pandas, Kafka, dbt, Airflow,Airbyte,matplotlib,MongoDB,PostgreSQL ⚒ 
-- Cloud Services: AWS ☁ ,DigitalOcean
+- Cloud Services: AWS ☁ ,DigitalOcean, Azure & GCP
 - DevOps: Docker,Git,Terraform 🛠
 - Bi Tools: Power Bi, Apache Superset,Metabase 📊
 
