@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 
 ### :hammer_and_wrench: Languages and Tools :
-- Programming Lanaguages: Python,SQL,Spark 💻 
-- Data Tool: Pandas, Kafka, dbt, Airflow,Airbyte,matplotlib,MongoDB,PostgreSQL ⚒ 
+- Programming Lanaguages: Python,SQL,Spark 💻, Azure Databricks 
+- Data Tool: Pandas, Kafka, Airflow,Airbyte,matplotlib,MongoDB,PostgreSQL ⚒ 
 - Cloud Services: AWS ☁ ,DigitalOcean, Azure & GCP
-- DevOps: Docker,Git,Terraform 🛠
+- DevOps: Docker,Git
 - Bi Tools: Power Bi, Apache Superset,Metabase 📊
 
 ### :fire: My Stats :
